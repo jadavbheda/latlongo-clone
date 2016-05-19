@@ -158,13 +158,13 @@ a {
     clear: both;
   }
   .pricing-list > li {
-    width: 33.3333333333%;
+    width: 25%;
     float: left;
     padding-left: 5px;
     padding-right: 5px;
   }
   .has-margins .pricing-list > li {
-    width: 32.3333333333%;
+    width: 24%;
     float: left;
     margin-right: 1.5%;
   }
